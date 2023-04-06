@@ -1,0 +1,4 @@
+baseURL = 'https://github.com/Oala-null/Oala-null.github.io.git'
+languageCode = 'en-us'
+title = "Oala's Blog"
+theme = "ananke"
