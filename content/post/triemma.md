@@ -1,5 +1,5 @@
 ---
-title: "Triemma"
+title: "Trilemma"
 date: 2023-04-07T14:11:13+08:00
 author: Oala
 draft: false
