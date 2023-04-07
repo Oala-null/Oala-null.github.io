@@ -6,14 +6,40 @@
     <description>Recent content on Oala&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Apr 2023 22:54:57 +0800</lastBuildDate><atom:link href="https://github.com/Oala-null/Oala-null.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Apr 2023 14:11:13 +0800</lastBuildDate><atom:link href="https://github.com/Oala-null/Oala-null.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Triemma</title>
+      <link>https://github.com/Oala-null/Oala-null.github.io.git/post/triemma/</link>
+      <pubDate>Fri, 07 Apr 2023 14:11:13 +0800</pubDate>
+      
+      <guid>https://github.com/Oala-null/Oala-null.github.io.git/post/triemma/</guid>
+      <description>走不出的GMAT困境 I am Oala, a year 4 Econ student in Macau
+this is my first blog in this site.
+引言 在Indicate Version正式实施前的最后一个申请季，废物Oala耗时两年也没有走出的三战GMAT还是转头GRE的dilemma&amp;hellip;
+以下本人love and hate relationship最深重的语法部分笔记，也是Indicate版彻底摒弃的旧时代易拉罐。
+像纪念回不去的江苏高考一样，致敬近两年无数个咬文嚼字难以入睡反复刷毕出OG逐题讲解的GMAT Night。
+GMAT SC Tomb
+Resource： GMAT OG22
+精题 878 866 (比较) 820 919（不定式 和doing 以及名词）915（观点类动词的被动）917
+934 (固定搭配) 945（精讲伴随）946（省略结构中不能省略时态的好题）958（宾补）961 962（同位语和状语）924（前置定语与后置定语的区别）
+972（再次比较）982（evidence to suggest ）
+状语/伴随/独立主格 形式上 在句子中的任何地方看到一个连词+分词的情况都是表示伴随（when threatened）
+while+doing 也能表示伴随
+但是连词要分成并列连词（and or but rather than）
+和从属连词 (because if while )
+如果要补充出表示伴随状态（连词+doing这种结构的话）必须是从属连词
+伴随和独立主格都是状语从句的省略
+逻辑上是对谓语动词的修饰
+伴随和独立主格都要求两个动作近乎同时发生</description>
+    </item>
+    
     <item>
       <title>Bio</title>
       <link>https://github.com/Oala-null/Oala-null.github.io.git/post/bio/</link>
       <pubDate>Thu, 06 Apr 2023 22:54:57 +0800</pubDate>
       
       <guid>https://github.com/Oala-null/Oala-null.github.io.git/post/bio/</guid>
-      <description>This is Oala, a year-4 Econ student in Macau，pre-graduate students in ASU MSBA, entry-level user of stata, Eviews, Tableau, rooie for python, R, SQL , terrible GMAT candidacte</description>
+      <description>This is Oala, a year-4 Econ student in Macau，a pre-graduate student in ASU MSBA, entry-level user of stata, Eviews, Tableau, a rooie for python, R, SQL , a terrible GMAT candidacte</description>
     </item>
     
     <item>
